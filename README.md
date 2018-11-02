@@ -1,2 +1,2 @@
 # document_clustering
-IMDB Document Clustering and Topic Modeling with K-means, LDA
+IMDB movies' plots clustering and topic modeling using K-means and LDA techniques.
